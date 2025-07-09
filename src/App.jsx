@@ -1,4 +1,3 @@
-//import TicTacToe from "./TicTacToe"
 
 import { useState } from "react"
 
@@ -62,7 +61,7 @@ function App() {
 
   return (
     <>
-      {/* <TicTacToe/> */}
+     
       <div className="min-h-screen bg-slate-950 flex justify-center items-center">
         <div className="w-full max-w-[400px]  mx-5">
           <h1 className="text-4xl text-white text-bold mb-5 text-center">Tic Tac Toe</h1>
